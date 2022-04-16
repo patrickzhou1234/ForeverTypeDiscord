@@ -3,7 +3,7 @@ fetch("https://discord.com/api/v9/channels/903428842272718858/typing", {
   "headers": {
     "accept": "*/*",
     "accept-language": "en-US,en;q=0.9",
-    "authorization": "NzI2MTUxOTkwMjI4NTQ5NzA1.YacIwg.9xZQND05-4sZg3Djv_EdpyGiUZg",
+    "authorization": "",
     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"96\", \"Google Chrome\";v=\"96\"",
     "sec-ch-ua-mobile": "?0",
     "sec-ch-ua-platform": "\"Windows\"",

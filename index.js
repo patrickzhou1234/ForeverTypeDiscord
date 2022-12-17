@@ -1,5 +1,5 @@
 setInterval(function() {
-fetch("https://discord.com/api/v9/channels/903428842272718858/typing", {
+fetch("https://discord.com/api/v9/channels/youchannelid/typing", {
   "headers": {
     "accept": "*/*",
     "accept-language": "en-US,en;q=0.9",

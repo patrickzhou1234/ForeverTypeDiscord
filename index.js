@@ -3,7 +3,7 @@ fetch("https://discord.com/api/v9/channels/youchannelid/typing", {
   "headers": {
     "accept": "*/*",
     "accept-language": "en-US,en;q=0.9",
-    "authorization": "",
+    "authorization": "yourtoken",
     "sec-ch-ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"96\", \"Google Chrome\";v=\"96\"",
     "sec-ch-ua-mobile": "?0",
     "sec-ch-ua-platform": "\"Windows\"",
